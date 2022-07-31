@@ -50,7 +50,7 @@ Torne o projeto fácil de ser executado (crie um passo a passo e/ou utilize dock
 ## Dicas
 
 - Prefira funções puras
-- Use gitflow e escreva comentários claros e objetivos em cada commit
+- Use gitflow e escreva comentários claros e objetivos em cada commit (o uso de commits semânticos é bem visto)
 - O uso de eslint, editor config, docker, webpack, etc facilitam sua vida
 - Lembre-se do conceito de DRY e aplique
 - Se possível, escreva o código em inglês, pois esse é o padrão utilizado na empresa.
