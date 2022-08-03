@@ -35,8 +35,6 @@ Não é obrigatório criar uma API backend para este teste, mas se o profissiona
 A nossa stack de preferência é Angular / Laravel, caso venha a construir frontend e backend separados.
 Podem ser usados qualquer tipo de lib CSS (Material UI, Bootstrap, Tailwind, etc), mas se não utilizar, será considerado um ponto positivo pois demonstrará a habilidade do candidato com CSS.
 
-Mesmo o teste sendo algo simples e que pode ser resolvido com poucas linhas de código, crie uma estrutura de arquivos como se fosse um projeto maior. A organização e criação de componentes são extremamente importantes.
-
 Torne o projeto fácil de ser executado (crie um passo a passo e/ou utilize docker).
 
 ## O que será avaliado
