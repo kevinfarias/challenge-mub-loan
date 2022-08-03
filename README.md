@@ -22,7 +22,7 @@ Uma aplicação web que traga uma calculadora de financiamento, onde facilmente 
 
 ### Regras de negócio
 
-1. O sistema de amortização à ser utilizado é o sistema PRICE. Para validação, você pode usar como consulta esta calculadora online gratuita: [Calculadora PRICE Online](https://www.calculadora.com.br/financeira/financiamento-price/). Como material de apoio, o calculo está explicado de forma didática no seguinte vídeo: [Video explicação PRICE](https://www.youtube.com/watch?v=iESlw6pz1fQ). Porém, existem diversos materiais na internet que auxiliam no entendimento do c
+1. O sistema de amortização à ser utilizado é o sistema PRICE. Para validação, você pode usar como consulta esta calculadora online gratuita: [Calculadora PRICE Online](https://www.calculadora.com.br/financeira/financiamento-price/). Como material de apoio, o calculo está explicado de forma didática no seguinte vídeo: [Video explicação PRICE](https://www.youtube.com/watch?v=iESlw6pz1fQ). Porém, existem diversos materiais na internet que auxiliam no entendimento do mesmo.
 2. O máximo de parcelas que podem ser digitadas é de 100.
 3. Os juros mensais não podem passar de 5%.
 4. Para fins de facilidade, a primeira parcela é sempre o dia primeiro do próximo mes. As demais, são subsequentes (uma parcela cada mês - sempre no mesmo dia)
