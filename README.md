@@ -31,7 +31,7 @@ Uma aplicação web que traga uma calculadora de financiamento, onde facilmente 
 ## Requisitos técnicos
 
 O teste precisa ser aplicado utilizado o framework Angular v10+ e os cálculos podem ser resolvidos tanto no backend ou frontend.
-Não é obrigatório criar uma API backend para este teste, porém se a vaga é fullstack, é obrigatório que o mesmo desenvolva utlizando backend (com laravel) e frontend (com angular).
+Não é obrigatório criar uma API backend para este teste, porém se a vaga é fullstack, é obrigatório que o teste seja desenvolvido utilizando backend (com laravel) e frontend (com angular).
 Podem ser usados qualquer tipo de lib CSS (Material UI, Bootstrap, Tailwind, etc), mas se não utilizar, será considerado um ponto positivo pois demonstrará a habilidade do candidato com CSS.
 
 Torne o projeto fácil de ser executado (crie um passo a passo e/ou utilize docker).
